@@ -1,4 +1,4 @@
-# Android-Studio-en-termux
+# android-studio-termux-arm64
 Documentación para instalar Android Studio en termux
 
 # [Wiki](https://github.com/ESTRIN217/Android-Studio-in-termux/wiki)
